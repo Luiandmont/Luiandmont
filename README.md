@@ -14,6 +14,7 @@ I am a sociologist by profession and a Master in Management and Public Policy (m
 - I work at UCEN.
 - My main means of transportation is the bicycle.
 - Currently I work and study, besides having a nice girlfriend.
+- I like to watch Japanese animation and police series.
 
 
 

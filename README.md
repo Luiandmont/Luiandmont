@@ -5,26 +5,15 @@
 I am a sociologist by profession and a Master in Management and Public Policy (mgpp), both from the University of Chile. I am currently studying for a Master's degree in Data Science at the Faculty of Physical and Mathematical Sciences of the University of Chile. My areas of interest are data mining, information visualization and geographic data science. 
 
 
-## Some info about me <img src="https://www.fightersgeneration.com/characters/dio-super.gif" width="30px">
+## Some info about me
 
-<br>
-
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - I live in the Yungay neighborhood, Santiago.
 - I work at UCEN.
 - My main means of transportation is the bicycle.
 - Currently I work and study, besides having a nice girlfriend.
 
-<br>
-<br>
 
-<div align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=mezosky&count_private=true&show_icons=true&custom_title=Github&theme=chartreuse-dark&bg_color=0,000000,130F40&layout=compact&border_radius=8">
-</div>
-
-<br>
-<br>
 
 ## Tech Stack 🛠️
 

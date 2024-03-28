@@ -3,20 +3,7 @@
 
 
 I am a sociologist by profession and a Master in Management and Public Policy (mgpp), both from the University of Chile. I am currently studying for a Master's degree in Data Science at the Faculty of Physical and Mathematical Sciences of the University of Chile. My areas of interest are data mining, information visualization and geographic data science. 
-</div>
-<br>
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/ignacio-alejandro-meza-de-la-jara-4b0360134/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:imezadelajara@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="cv_ignacio.pdf">
-        <img src="https://img.shields.io/badge/Resume-Blue?style=for-the-badge&logoColor=white"/>
-    </a>
-</p>
 
 ## Some info about me <img src="https://www.fightersgeneration.com/characters/dio-super.gif" width="30px">
 
